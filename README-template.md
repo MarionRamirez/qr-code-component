@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Visual result](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,46 +15,44 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
-### Screenshot
+### Visual result
 
-![](./screenshot.jpg)
+![](./result-screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+This is a screenshot of my solution, in the Google Chrome browser.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+Here is the main reference that helped me complete this challenge.
+
+On the Youtube channel of Mr Coder, I've watched and followed step by step the instructions to complete the QR Code Challenge:
+
+[Mr Coder's solution](https://youtu.be/5BBYPntB-GY)
+
 
 ## My process
 
 ### Built with
 
+- Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- VS Code (source-code editor)
+- GitHub
+- Google Fonts (https://fonts.google.com/specimen/Outfit)
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I've learned a bit about CSS variables and decided to use them in this challenge for practice. 
 
+This Kevin Powell's video helped me understand how it works, and what it's meant to help with:
+
+[Kevin Powell Youtube video on CSS variables](https://youtu.be/PHO6TBq_auI)
 To see how you can add code snippets, see below:
 
 ```html
